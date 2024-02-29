@@ -1,5 +1,10 @@
 phoneNumber = "123-456-7890"
 
+# while True:
+#     name = input("enter your name: ")
+#     if name != "":
+#         break
+
 # for i in phoneNumber:
 #     if i == "-":
 #         continue
